@@ -83,3 +83,29 @@ lapizdigital-agente-ia/
 ├── requirements.txt                  # Dependencias del proyecto
 ├── .env.example                      # Plantilla de variables de entorno
 └── README.md                         # Documentación del proyecto
+
+## 5❓ Ejemplos de Preguntas que el Agente Puede Responder
+
+Sobre productos: "¿Cuáles son las diferencias entre los lápices de grafito con graduación 2B, HB y 4H?"
+Sobre el catálogo: "¿Qué lápices son los más recomendados para acuarela y dibujo técnico profesional?"
+Sobre envíos y precios: "¿Cuál es el costo de envío para compras al por mayor y qué planes de suscripción ofrecen?"
+Sobre garantías: "¿Qué hago si recibo un set de lápices defectuoso o roto durante el traslado?"
+
+💬 Ejemplos de Respuestas Generadas por el Agente
+
+Ejemplo 1: Consulta de Especificaciones Técnicas
+Pregunta: "¿Cuáles son las diferencias entre los lápices de grafito con graduación 2B, HB y 4H?"
+
+Respuesta generada:
+"De acuerdo con el catálogo de LápizDigital:
+
+4H: Es un lápiz de mina dura y clara, ideal para trazados finos y dibujo técnico de precisión.*
+HB: Posee un tono de dureza media, siendo la opción estándar y versátil para escritura diaria.*
+2B: Cuenta con un grafito más suave y oscuro, perfecto para sombreado artístico y bocetos libres."*
+
+Ejemplo 2: Consulta sobre Envíos y Políticas
+Pregunta: "¿Cuál es el costo de envío para compras al por mayor?"
+
+Respuesta generada:
+"Según la sección de Políticas y Envíos del documento:
+Las compras al por mayor o los pedidos superiores a $50 USD cuentan con envío estándar totalmente gratuito. Para pedidos de menor valor, el costo de envío nacional fijo es de $3.50 USD y tarda entre 48 a 72 horas hábiles en ser entregado."
